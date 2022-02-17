@@ -53,7 +53,7 @@ Enviar a imagem latest para o Docker Hub.
 docker push edemirtoldo/conversao-peso:latest
 ```
 
-Executar a aplicação NodeJS em container.
+Executar a aplicação C# utilizando ASP.NET Core em container.
 
 ```bash
 docker container run -d -p 8080:80 --name conversao-peso edemirtoldo/conversao-peso:v1

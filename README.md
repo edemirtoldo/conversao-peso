@@ -1,5 +1,3 @@
-# conversao-peso
-
 # Kubedev - Desafio Docker - Questão 03
 
 ## Aplicação escrita em C# utilizando ASP.NET Core
